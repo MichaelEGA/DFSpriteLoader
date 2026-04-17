@@ -9,8 +9,8 @@ Loads sprites in Unity that have been made with the Dark Forces Character Creato
 3) Go to Tools -> Set Up DF Sprite
 4) Select your sprite folder with the sprites
 5) Select your folder for output (the folder needs to already exist!)
-6) Write the name of the character
-7) The script with generator a folder with the animations and animation controller as well as making a character in the scene
+6) Write the name of the character, press 'generate all'.
+7) The script will generate a folder with the animations and animation controller as well as making a character in the scene
 8) If you go to the child object of the character (CharacterName -> AnimatorGO) and go down to SpriteHandler on the right hand side in the inspector there is a dropdown box where you can change the animation that is playing.
 
 **Other Notes:**
