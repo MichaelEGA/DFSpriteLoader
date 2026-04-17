@@ -1,2 +1,20 @@
 # DFSpriteLoader
 Loads sprites in Unity that have been made with the Dark Forces Character Creator V1 by BenDansie
+
+<img width="1448" height="754" alt="SpriteLoader" src="https://github.com/user-attachments/assets/a7da4be1-bbc2-4b70-95a5-aa39eb08431a" />
+
+**How to use:**
+1) Place the files in your asset folder
+2) Import the PNG sprites that you made with the DarkForces Character Creator
+3) Go to Tools -> Set Up DF Sprite
+4) Select your sprite folder with the sprites
+5) Select your folder for output (the folder needs to already exist!)
+6) Write the name of the character
+7) The script with generator a folder with the animations and animation controller as well as making a character in the scene
+8) If you go to the child object of the character (CharacterName -> AnimatorGO) and go down to SpriteHandler on the right hand side in the inspector there is a dropdown box where you can change the animation that is playing.
+
+**Other Notes:**
+- The character in the scene will not be visible until you press 'play' in the editor.
+- The script will automatically look for the main camera in the scene to ensure the correct rotation of the sprite. If there is no main camera the sprite will not rotate correctly or may throw an error.
+
+     
