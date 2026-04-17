@@ -5,7 +5,7 @@ Loads sprites in Unity that have been made with the Dark Forces Character Creato
 
 **How to use:**
 1) Place the files in your asset folder
-2) Import the PNG sprites that you made with the DarkForces Character Creator
+2) Import the PNG sprites that you made with the DarkForces Character Creator (Note: Make sure they're 'Texture Type' is set to 'Sprite(2D & UI)' in the inspector).
 3) Go to Tools -> Set Up DF Sprite
 4) Select your sprite folder with the sprites
 5) Select your folder for output (the folder needs to already exist!)
