@@ -20,7 +20,9 @@ Loads sprites in Unity that have been made with the Dark Forces Character Creato
 **Dark Forces Character Creator Link**
 https://df-21.net/wiki/?title=WAX_File_Generator
 
-Credits:
+**Credits:**
 - BenDansie, Dark Forces Character Creator, https://www.bendansie.com/
 - SpawnCampGames, Unity DOOM tutorial series, https://youtu.be/qcXEcZmZ8kA?si=cM-4oukvW4bdK86a
-     
+
+**License:**
+MIT License
