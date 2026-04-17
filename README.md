@@ -17,4 +17,10 @@ Loads sprites in Unity that have been made with the Dark Forces Character Creato
 - The character in the scene will not be visible until you press 'play' in the editor.
 - The script will automatically look for the main camera in the scene to ensure the correct rotation of the sprite. If there is no main camera the sprite will not rotate correctly or may throw an error.
 
+**Dark Forces Character Creator Link**
+https://df-21.net/wiki/?title=WAX_File_Generator
+
+Credits:
+- BenDansie for the Sprites https://www.bendansie.com/
+- Got some coding ideas from SpawnCampGames tutorials series on Youtube https://youtu.be/qcXEcZmZ8kA?si=cM-4oukvW4bdK86a
      
