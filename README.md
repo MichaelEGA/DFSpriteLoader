@@ -3,8 +3,10 @@ Loads sprites in Unity that have been made with the Dark Forces Character Creato
 
 <img width="1448" height="754" alt="SpriteLoader" src="https://github.com/user-attachments/assets/a7da4be1-bbc2-4b70-95a5-aa39eb08431a" />
 
+**UnityPackage:** https://github.com/MichaelEGA/DFSpriteLoader/releases/download/v.1.1.0/DFSpriteLoader.unitypackage
+
 **How to use:**
-1) Place the files in your asset folder
+1) Place the files in your asset folder, either using the Unity Package or manually. (Note: the 'SetUpDFSprite' script must be at this location in your project 'Assets/Editor/SetUpDFSprite.cs', the other scripts can go wherever you want.)
 2) Import the PNG sprites that you made with the DarkForces Character Creator (Note: Make sure they're 'Texture Type' is set to 'Sprite(2D & UI)' in the inspector).
 3) Go to Tools -> Set Up DF Sprite
 4) Select your sprite folder with the sprites
