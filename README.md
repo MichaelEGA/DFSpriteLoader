@@ -7,13 +7,15 @@ Loads sprites in Unity that have been made with the Dark Forces Character Creato
 
 **How to use:**
 1) Place the files in your asset folder, either using the Unity Package or manually. (Note: the 'SetUpDFSprite' script must be at this location in your project 'Assets/Editor/SetUpDFSprite.cs', the other scripts can go wherever you want.)
-2) Import the PNG sprites that you made with the DarkForces Character Creator (Note: Make sure their 'Texture Type' is set to 'Sprite(2D & UI)' in the inspector).
-3) Go to Tools -> Set Up DF Sprite
-4) Select your sprite folder with the sprites
-5) Select your folder for output (the folder needs to already exist!)
-6) Write the name of the character, press 'generate all'.
-7) The script will generate a folder with the animations and an animation controller as well as making a character in the scene
-8) If you go to the child object of the character (CharacterName -> AnimatorGO) and go down to SpriteHandler on the right hand side in the inspector there is a dropdown box where you can change the animation that is playing.
+2) Import the PNG sprites that you made with the DarkForces Character Creator
+    - Make sure you set all the textures to 'Texture Type' -> 'Sprite(2D & UI)' in the inspector.
+    - Make sure you set all the textures to 'Sprite Mode' -> 'Single' in the inspector.
+4) Go to Tools -> Set Up DF Sprite
+5) Select your sprite folder with the sprites
+6) Select your folder for output (the folder needs to already exist!)
+7) Write the name of the character, press 'generate all'.
+8) The script will generate a folder with the animations and an animation controller as well as making a character in the scene
+9) If you go to the child object of the character (CharacterName -> AnimatorGO) and go down to SpriteHandler on the right hand side in the inspector there is a dropdown box where you can change the animation that is playing.
 
 **How to install thee unity package**
 1) Download the unity package
