@@ -5,6 +5,14 @@ Loads sprites in Unity that have been made with the Dark Forces Character Creato
 
 **UnityPackage:** https://github.com/MichaelEGA/DFSpriteLoader/releases/download/v.1.1.0/DFSpriteLoader.unitypackage
 
+**How to install the unity package**
+1) Download the unity package
+2) Open the Unity editor
+3) Go to Assets (on the top menu bar) -> Import Package
+4) Search for the downloaded unity package and click open
+5) The 'Import Unity Window' will open, click 'Import'
+6) The DFSprite Loader is installed, go to Tools (on the top menu bar) -> Set Up DF Sprite
+
 **How to use:**
 1) Place the files in your asset folder, either using the Unity Package or manually. (Note: the 'SetUpDFSprite' script must be at this location in your project 'Assets/Editor/SetUpDFSprite.cs', the other scripts can go wherever you want.)
 2) Import the PNG sprites that you made with the DarkForces Character Creator
@@ -16,14 +24,6 @@ Loads sprites in Unity that have been made with the Dark Forces Character Creato
 7) Write the name of the character, press 'generate all'.
 8) The script will generate a folder with the animations and an animation controller as well as making a character in the scene
 9) If you go to the child object of the character (CharacterName -> AnimatorGO) and go down to SpriteHandler on the right hand side in the inspector there is a dropdown box where you can change the animation that is playing.
-
-**How to install thee unity package**
-1) Download the unity package
-2) Open the Unity editor
-3) Go to Assets (on the top menu bar) -> Import Package
-4) Search for the downloaded unity package and click open
-5) The 'Import Unity Window' will open, click 'Import'
-6) The DFSprite Loader is installed, go to Tools (on the top menu bar) -> Set Up DF Sprite
 
 **Other Notes:**
 - The character in the scene will not be visible until you press 'play' in the editor.
