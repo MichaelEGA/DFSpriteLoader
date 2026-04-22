@@ -23,7 +23,7 @@ Loads sprites in Unity that have been made with the Dark Forces Character Creato
 3) Go to Assets (on the top menu bar) -> Import Package
 4) Search for the downloaded unity package and click open
 5) The 'Import Unity Window' will open, click 'Import'
-6) The DFSprite Loader is installe, go to Tools (on the top menu bar) -> Set Up DF Sprite
+6) The DFSprite Loader is installed, go to Tools (on the top menu bar) -> Set Up DF Sprite
 
 **Other Notes:**
 - The character in the scene will not be visible until you press 'play' in the editor.
