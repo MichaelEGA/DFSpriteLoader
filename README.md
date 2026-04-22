@@ -3,7 +3,7 @@ Loads sprites in Unity that have been made with the Dark Forces Character Creato
 
 <img width="1448" height="754" alt="SpriteLoader" src="https://github.com/user-attachments/assets/a7da4be1-bbc2-4b70-95a5-aa39eb08431a" />
 
-**UnityPackage:** https://github.com/MichaelEGA/DFSpriteLoader/releases/download/v.1.1.0/DFSpriteLoader.unitypackage
+**UnityPackage:** https://github.com/MichaelEGA/DFSpriteLoader/releases/download/v.1.1.0/DFSpriteLoader.zip
 
 **How to install the unity package**
 1) Download the unity package
